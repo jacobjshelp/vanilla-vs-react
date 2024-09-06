@@ -1,2 +1,1 @@
-import { setupCounter } from './counter.ts';
-setupCounter(document.querySelector<HTMLButtonElement>('#counter')!);
+// Add code for attaching the counter logic to the counter button
